@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon ./server/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/HRATX-45-FEC-West-Buy/cs-proxy/issues"
   },
-  "homepage": "https://github.com/HRATX-45-FEC-West-Buy/cs-proxy#readme"
+  "homepage": "https://github.com/HRATX-45-FEC-West-Buy/cs-proxy#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
 }
