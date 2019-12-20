@@ -1,0 +1,19 @@
+{
+  "name": "proxy-fec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HRATX-45-FEC-West-Buy/cs-proxy.git"
+  },
+  "author": "Collin Snyder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HRATX-45-FEC-West-Buy/cs-proxy/issues"
+  },
+  "homepage": "https://github.com/HRATX-45-FEC-West-Buy/cs-proxy#readme"
+}
